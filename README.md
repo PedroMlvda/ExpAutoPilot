@@ -1,13 +1,8 @@
 # ExpAutoPilot
-Experimental Aircraft AutoPilot based on 
 
-
-
-
-
-<img width="1489" height="530" alt="Screenshot 2025-10-17 155910" src="https://github.com/user-attachments/assets/928289d9-8016-4eee-9ee8-bc06b124014f" />
 
 Experimental Aircraft AutoPilot
+
 Overview
 This project is the first iteration of an autopilot system designed for experimental aircraft applications. It runs on an Arduino UNO R4 WiFi and integrates:
 
